@@ -8,8 +8,8 @@ var player = {
   magicCost: 30,
   potionAmount: 5,
 
-  swordDamage: 200,
-  magicDamage: 350,
+  swordDamage: 40,
+  magicDamage: 45,
 
   potionHealAmount: 70,
   magicHealAmount: 100
